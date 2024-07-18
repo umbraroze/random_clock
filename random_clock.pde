@@ -39,13 +39,13 @@ void drawHands() {
   pushMatrix();
   translate(width/2,height/2);
   rotate((TWO_PI/12.0)*h);
-  rect(-5,-200,10,200);
+  rect(-5,-150,10,150);
   popMatrix();
   // Minute hand
   pushMatrix();
   translate(width/2,height/2);
   rotate((TWO_PI/60.0)*m);
-  rect(-5,-150,10,150);
+  rect(-5,-200,10,200);
   popMatrix();
   // Second hand
   pushMatrix();
