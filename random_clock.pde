@@ -1,6 +1,13 @@
-// Rose Midford 2024-07-17
-// dunno, got depressed and starter writing a clock
-// why did I do this? I've never made one I guess
+/*
+ * Random Clock, written in Processing
+ *
+ * Rose Midford 2024-07-17
+ *
+ * Dunno, got depressed and starter writing a clock.
+ * Why did I do this? I've never made one I guess.
+ *
+ * SPDX-License-Identifier: MIT
+ */
 
 import java.util.Calendar;
 
