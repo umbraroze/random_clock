@@ -13,3 +13,6 @@ Godot Engine, and it's available in Codeberg here:
 This (and the new clock) is available under the MIT licence but I
 don't really care if you take a looksie and learn from this if you're
 writing your own clock or something.
+
+This also includes a p5.js version.
+See it in action in [OpenProcessing](https://openprocessing.org/sketch/2855584)!
