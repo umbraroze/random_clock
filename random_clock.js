@@ -21,14 +21,14 @@ function drawClockFace() {
   for(i=0; i < 60; i++) {
     push();
     translate(width/2,height/2);
-    rotate((TWO_PI/60.0)*i); // cast i to float
+    rotate((TWO_PI/60.0)*i);
     rect(-1,-230,2,20);
     pop();
   }
   for(i=0; i < 12; i++) {
     push();
     translate(width/2,height/2);
-    rotate((TWO_PI/12.0)*i); // cast i to float
+    rotate((TWO_PI/12.0)*i);
     if(i%3==0) {
       rect(-3,-230,6,35);
     } else {
